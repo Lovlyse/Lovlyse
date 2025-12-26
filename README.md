@@ -1,5 +1,5 @@
 ## Software Engineer || CyberSec Student & Front-End Web Developer
-Before we begin, Please be acknowledged that I won't be active in github as usual so there will be some delays in responsity updates and my contributions will be delayed.
+Before we begin, Please be acknowledged that I won't be active in github as usual so there will be some delays in responsity updates and so as my contributions.
 
 I build software with curiosity, structure, and a security-first mindset. I enjoy turning ideas into clean, functional systems while paying close attention to how things work under the hood.
 
