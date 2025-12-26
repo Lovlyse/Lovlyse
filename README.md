@@ -1,4 +1,6 @@
 ## Software Engineer || CyberSec Student & Front-End Web Developer
+Before we begin, Please be acknowledged that I won't be active in github as usual so there will be some delays in responsity updates and my contributions will be delayed.
+
 I build software with curiosity, structure, and a security-first mindset. I enjoy turning ideas into clean, functional systems while paying close attention to how things work under the hood.
 
 Most of my work revolves around Python, JavaScript, and web technologies, where I experiment with automation, small tools, and practical applications. Along the way, I’ve developed a growing interest in cybersecurity—especially blue team concepts like system hardening, monitoring, and understanding how real-world systems fail (and how to make them better absolutley :D).
